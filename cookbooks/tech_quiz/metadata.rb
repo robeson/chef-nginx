@@ -1,0 +1,7 @@
+name 'tech_quiz'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures tech_quiz'
+long_description 'Installs/Configures tech_quiz'
+version '0.1.0'
